@@ -1,0 +1,11 @@
+.Login
+{
+    justify-content: center;
+    align-content: center;
+    justify-items: center;
+    align-items: center;
+    display: flex;
+}
+*{
+    font-family: system-ui;
+}
